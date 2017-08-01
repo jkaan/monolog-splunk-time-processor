@@ -2,6 +2,7 @@
   "name": "jkaan/monolog-splunk-time-processor",
   "type": "library",
   "license": "MIT",
+  "keywords": ["splunk", "monolog", "processor", "time"],
   "authors": [
       {
         "name": "Joey Kaan",
